@@ -1,4 +1,4 @@
-# crave-llmfactchecking
+
 # Fact-Checking with Contextual Narratives: Leveraging Retrieval-Augmented LLMs for Social Media Analysis
 
 **Authors:** [Arka Ujjal Dey](https://orcid.org/0000-0001-8392-1574), [Muhammad Junaid Awan](https://orcid.org/0000-0002-3857-1293), [Georgia Channing](https://orcid.org/0009-0001-6354-7527), [Christian Schroeder de Witt](https://orcid.org/0000-0003-4245-1179), and [John Collomosse](https://orcid.org/0000-0003-3580-4685)

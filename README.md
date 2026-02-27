@@ -16,16 +16,9 @@ Fact-checking systems have gained traction as scalable solutions, yet they often
 
 ### 🚀 Code and Data Release
 
-**Notice:** The source code and the associated DP (Digital Proof) dataset are currently being prepared for public release.
+**Notice:** The source code and the associated DP dataset are currently being prepared for public release.
 
 As this work is currently in the publication process, the full repository—including model weights, extracted features and the dataset explorer—**will be released upon official publication.** 
-
-### Dataset & Evaluation (Coming Soon)
-
-The upcoming release will include:
-
-* **The DP Dataset Repository:** Organized for sharing with a detailed document on collection methodology.
-* **A Multi-Model Evaluation Script:** A main script to verify results across multiple datasets (`VERITE`, `MMFake`, `5Pills`, and `DP`).
 
 
 ---

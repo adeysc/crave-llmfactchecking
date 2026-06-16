@@ -15,11 +15,13 @@ Fact-checking systems have gained traction as scalable solutions, yet they often
 
 ### Code and Data Release
 
-**Notice:** The source code and the associated DP dataset are currently being prepared for public release.
+**Notice:** The source code is currently being prepared for public release.
 
-As this work is currently in the publication process, the full repository—including model weights, extracted features and the dataset explorer—**will be released upon official publication.** 
+ 
 
 
+For Dataset and model weights refer to 
+https://github.com/cejunaid/decade-ieee-crave-support-repo
 ---
 
 ### Citation

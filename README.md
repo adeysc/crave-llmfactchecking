@@ -220,12 +220,17 @@ https://github.com/cejunaid/decade-ieee-crave-support-repo
 
 If you find this work useful for your research, please cite our preprint. This citation will be updated to reflect the full *IEEE Transactions on Computational Social Systems* (TCSS) version upon its final publication.
 ```bibtex
-@article{dey2025fact,
-  title={Fact-checking with contextual narratives: Leveraging retrieval-augmented llms for social media analysis},
+@ARTICLE{11456234,
   author={Dey, Arka Ujjal and Awan, Muhammad Junaid and Channing, Georgia and de Witt, Christian Schroeder and Collomosse, John},
-  journal={arXiv preprint arXiv:2504.10166},
-  year={2025}
-}
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={Fact-Checking With Contextual Narratives: Leveraging Retrieval-Augmented LLMs for Social Media Analysis}, 
+  year={2026},
+  volume={13},
+  number={3},
+  pages={3365-3376},
+  keywords={Social networking (online);Retrieval augmented generation;Pipelines;Noise measurement;Large language models;Iterative methods;Cognition;Training;Visualization;Synthetic data;Knowledge retrieval;large language models (LLMs);multimodal fact-checking;retrieval-augmented generation},
+  doi={10.1109/TCSS.2026.3669799}}
+
 
 ```
 

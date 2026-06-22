@@ -31,7 +31,7 @@ starts from the evidence already stored in `data/` (it is produced by `tcss_ad_g
 > bring-your-own-key). See `RELEASE_NOTES.md`.
 
 ```
-tcss_ad_crave/
+crave-llmfactchecking/
   config/      judges.py  clustering.py  paths.py     # all knobs live here
   src/         clustering.py  judge.py  backends.py    # logic
                eval.py  data_io.py

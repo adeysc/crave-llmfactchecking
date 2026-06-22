@@ -1,0 +1,18 @@
+# Dependencies (unpinned). The whole package runs on CPU with a plain `pip install`:
+#   generate_clusters, replay (src.eval), and the openai judge.
+#
+# NOTE: versions are intentionally not pinned. The dev box runs sentence-transformers
+# 3.2.1 alongside transformers 5.8.1, which pip considers inconsistent (ST 3.2.1 declares
+# transformers<5.0.0) even though it runs — so those exact versions do NOT `pip install`
+# together cleanly. Let pip resolve a compatible set. (sentence-transformers pulls in
+# torch + transformers transitively; the MiniLM clustering embedder runs fine on CPU.)
+
+numpy
+scipy
+scikit-learn>=1.4          # AgglomerativeClustering(metric=...) needs sklearn>=1.4
+sentence-transformers      # MiniLM clustering embedder (384-d)
+tqdm
+
+# openai judge (BYOK) — uses the HTTP API directly; tiktoken only trims long prompts
+requests
+tiktoken
